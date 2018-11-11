@@ -41,7 +41,6 @@ Generate booking referrals.
     Destroy contract. 
 
     
-    
  ## Rules 
 
     1. User is given referral link to push to their audiance.
